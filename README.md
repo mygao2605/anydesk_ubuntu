@@ -6,4 +6,5 @@
     AutomaticLoginEnable=true
     AutomaticLogin=$USERNAME
 
-## Step 3: Sudo reboot
+## Step 3: Reboot the machine
+    sudo reboot
